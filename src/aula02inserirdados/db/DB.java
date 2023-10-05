@@ -1,4 +1,4 @@
-package db;
+package aula02inserirdados.db;
 
 import java.io.FileInputStream;
 import java.io.IOException;
